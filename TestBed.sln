@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BedLib", "BedLib\BedLib.csproj", "{3889AD32-825E-4FC7-8BFC-0D7F917BBC21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BedTest", "BedTest\BedTest.csproj", "{83390422-DD51-40B2-B945-537CA3A84919}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3889AD32-825E-4FC7-8BFC-0D7F917BBC21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3889AD32-825E-4FC7-8BFC-0D7F917BBC21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3889AD32-825E-4FC7-8BFC-0D7F917BBC21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3889AD32-825E-4FC7-8BFC-0D7F917BBC21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83390422-DD51-40B2-B945-537CA3A84919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83390422-DD51-40B2-B945-537CA3A84919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83390422-DD51-40B2-B945-537CA3A84919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83390422-DD51-40B2-B945-537CA3A84919}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
